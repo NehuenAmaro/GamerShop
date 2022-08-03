@@ -1,0 +1,33 @@
+.fade-modal {
+    background-color: #00000063;
+    height: 100%;
+    width: 100%;
+}
+
+.modales {
+    background-color: white;
+    height: 600px;
+    width: 1080px;
+}
+
+.modalpago {
+    background-color: white;
+    height: 680px;
+    width: 500px;
+}
+
+.ver {
+    border: 1px solid red;
+}
+
+.ver2 {
+    border: 1px solid green;
+}
+
+.contact input, textarea {
+    width: 300px;
+}
+
+.errorV {
+    outline-color: red;
+}
